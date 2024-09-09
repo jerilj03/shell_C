@@ -1,4 +1,4 @@
-# simple-shell_C++
+# shell_C++
 # Author
 Jeril Joshy
 
